@@ -2,6 +2,9 @@
 body{
 	background-color:yellow;
 }
-h1{
+ #f1>h1{
+	text-align:center;
+}
+ #f2>h1{
 	text-align:center;
 }
